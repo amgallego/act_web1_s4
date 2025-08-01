@@ -7,4 +7,4 @@ const saludo = function(nombre){
         return `¡Hola, ${nombre}!`
     }
 };
-console.log (saludo())
+console.log (saludo());
